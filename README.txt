@@ -1,5 +1,5 @@
 Olayinka's Data Science Portfolio!
-deleolayinka.io | @deleolayinka
+deleolayinka.github.io/Data-Science-Portfolio | @deleolayinka
 Free for personal and commercial use.
 
 
