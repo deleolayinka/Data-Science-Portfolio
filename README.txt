@@ -12,7 +12,7 @@ you can use for pretty much whatever.
 (* = not included)
 
 MOSES OLAYINKA OYEDELE
-deleolayinka.io | @deleolayinka
+deleolayinka.github.io | @deleolayinka
 
 
 Credits:
