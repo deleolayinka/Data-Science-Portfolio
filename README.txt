@@ -6,7 +6,7 @@ Free for personal and commercial use.
 Say hello to my Data Science Portfolio, a blog/magazine-ish portfolio built around a toggleable "locking"
 sidebar (scroll down to see what I mean) and an accordion-style menu.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+Images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
 
 (* = not included)
@@ -17,7 +17,7 @@ deleolayinka.github.io | @deleolayinka
 
 Credits:
 
-	Demo Images:
+	Images:
 		Unsplash (unsplash.com)
 
 	Icons:
